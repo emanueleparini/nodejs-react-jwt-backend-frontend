@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.my-form {
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
+}
