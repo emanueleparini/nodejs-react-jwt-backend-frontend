@@ -1,4 +1,4 @@
-# Demo project for Treedom
+# Backend/Frontend NoseJs / React / JWT
 This is a demo project for Treedom, there is a backend and a frontend
 
 # Install /each folder (backend/frontend)
