@@ -1,5 +1,5 @@
 # Backend/Frontend NoseJs / React / JWT
-This is a demo project for Treedom, there is a backend and a frontend
+Demo projecj with backend and frontend in React with JWT token
 
 # Install /each folder (backend/frontend)
 - yarn install
